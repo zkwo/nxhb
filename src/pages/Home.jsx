@@ -98,7 +98,7 @@ const Home = () => {
 
         <div className="flex justify-center pt-4">
           <a 
-            href="https://domain.com/games" 
+            href="/games" 
             className="group flex items-center gap-3 px-10 py-4 bg-zinc-100 text-black font-black rounded-2xl hover:bg-white transition-all shadow-2xl hover:-translate-y-1 active:scale-95"
           >
             EXPLORE ALL GAMES
